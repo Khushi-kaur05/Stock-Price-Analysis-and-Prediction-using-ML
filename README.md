@@ -1,4 +1,4 @@
-# Stock Price Prediction Using LSTM
+# Stock Price Analysis and Prediction using ML
 
 This project is a comprehensive implementation of stock price prediction using Long Short-Term Memory (LSTM) neural networks. It involves data collection, preprocessing, feature engineering, model building, and evaluation. The project focuses on analyzing stock market trends and predicting future prices based on historical data.
 
@@ -53,13 +53,4 @@ This project is a comprehensive implementation of stock price prediction using L
   - `scikit-learn` for data scaling and evaluation metrics.
   - `tensorflow`/`keras` for building and training the LSTM model.
 
-
-
-
-
----
-
-## Acknowledgments
-
-Special thanks to the open-source community for tools and resources like `yfinance`, `TensorFlow`, and `scikit-learn`, which made this project possible.
 
